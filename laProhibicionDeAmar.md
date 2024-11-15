@@ -38,7 +38,7 @@ La ópera fue un fracaso en su estreno debido a problemas con el elenco y nunca 
 ## Enlaces de interés 
 
 [La prohibición de amar - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/La_prohibici%C3%B3n_de_amar)  
-[La prohibición de amar | Una fábula moral | My Opera Player ](https://www.myoperaplayer.com/videoteca/extras/la-prohibicion-de-amar-una-fabula-moral)
+[La prohibición de amar | Una fábula moral | My Opera Player ](https://www.myoperaplayer.com/videoteca/extras/la-prohibicion-de-amar-una-fabula-moral)   
 [La prohibición de amar video](https://www.youtube.com/watch?v=Xbx-WPpUAKU) 
 
  [Inicio](README.md)  [BIOGRAFIA](biografia.md) 
