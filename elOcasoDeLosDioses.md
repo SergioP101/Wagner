@@ -39,9 +39,9 @@ El Valhalla es consumido por las llamas, marcando el fin de los dioses.
 La ópera es una de las más ambiciosas de Wagner y se representa regularmente en teatros de todo el mundo. "El ocaso de los dioses" es fundamental para entender la culminación del ciclo del Anillo y la visión de Wagner sobre el destino y la redención.  
 
 ## Enlaces de interés 
-[El ocaso de los dioses - Wikipedia, la enciclopedia libre ](https://es.wikipedia.org/wiki/El_ocaso_de_los_dioses) 
-[El ocaso de los dioses (Götterdämmerung) Wagner - La Opera  ](https://laopera.net/wagner/gotterdammerung-el-ocaso-de-los-dioses-wagner-argumento-y-videos)
-[El ocaso de los dioses video](https://www.youtube.com/watch?v=OnPWTHrWO2o)
+[El ocaso de los dioses - Wikipedia, la enciclopedia libre ](https://es.wikipedia.org/wiki/El_ocaso_de_los_dioses)    
+[El ocaso de los dioses (Götterdämmerung) Wagner - La Opera  ](https://laopera.net/wagner/gotterdammerung-el-ocaso-de-los-dioses-wagner-argumento-y-videos)   
+[El ocaso de los dioses video](https://www.youtube.com/watch?v=OnPWTHrWO2o)   
 
 
 
