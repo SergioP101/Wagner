@@ -1,4 +1,4 @@
-
+[Óperas](obras.md)
 # **Tannhäusser** 
 
 ![imagen](tannhausser.jpg)
@@ -39,7 +39,10 @@ Aunque el estreno no fue un éxito rotundo, "Tannhäuser" se ha convertido en un
 
 ## Enlaces de interés 
 
-Tannhäuser (ópera) - Wikipedia, la enciclopedia libre  
-TANNHÄUSER de Richard Wagner - la guía y sinopsis de la ópera  
+[Tannhäuser (ópera) - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Tannh%C3%A4user_%28%C3%B3pera%29)  
+[TANNHÄUSER de Richard Wagner - la guía y sinopsis de la ópera ](https://opera-inside.com/tannhauser-de-richard-wagner-la-guia-y-sinopsis-de-la-opera/?lang=es) 
+[Tannhäuser video](https://www.youtube.com/watch?v=aRwX_fXjmLw)
+
+
 
  [Inicio](README.md)  [BIOGRAFIA](biografia.md) 

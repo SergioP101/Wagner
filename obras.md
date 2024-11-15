@@ -1,5 +1,7 @@
 
-# **ÓPERAS**
+# **Algunas de sus obras más destacadas**
+
+![imagen](teatro.jfif)
 
 [Las Hadas](lasHadas.md)
 

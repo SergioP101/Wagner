@@ -1,4 +1,4 @@
-
+[Óperas](obras.md)
 # **El oro del Rin**
 
 ![imagen](elOroDelRin.jpg)
@@ -40,8 +40,8 @@ La ópera fue bien recibida en su estreno y sigue siendo una de las obras más r
 
 ## Enlaces de interés 
 
-El oro del Rin - Wikipedia, la enciclopedia libre  
-El oro del Rhin (Wagner) – ## Argumento y Videos - La Opera   
-EL ORO DEL RIN | Pasionporlaopera.es    
+[El oro del Rin - Wikipedia, la enciclopedia libre ](https://es.wikipedia.org/wiki/El_oro_del_Rin) 
+[El oro del Rhin (Wagner) – ## Argumento y Videos - La Opera ](https://laopera.net/wagner/el-oro-del-rhin-wagner-argumento-y-videos)  
+[El oro del Rhin video](https://www.youtube.com/watch?v=gVUanA7g-Vs)
 
  [Inicio](README.md)  [BIOGRAFIA](biografia.md) 

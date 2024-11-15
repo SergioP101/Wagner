@@ -1,3 +1,4 @@
+[Óperas](obras.md)
 # **El Holandés Errante**  
 
 ![imagen](elHolandesErrante.jpg)
@@ -33,7 +34,10 @@ La ópera es conocida por su poderosa obertura, que introduce los leitmotivs del
 
 ## Enlaces de interés 
 
-El holandés errante (ópera) - Wikipedia, la enciclopedia libre  
-El holandés errante (Wagner) - La Opera  
+[El holandés errante (ópera) - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/El_holand%C3%A9s_errante_%28%C3%B3pera%29)  
+[El holandés errante (Wagner) - La Opera](https://laopera.net/wagner/el-holandes-errante-wagner#google_vignette)
+[El holandés errante video](https://www.youtube.com/watch?v=T7fkfsx1QdU&t=1262s)
+
+
 
  [Inicio](README.md)  [BIOGRAFIA](biografia.md) 

@@ -1,3 +1,4 @@
+[Óperas](obras.md)
 # **La Valquiria**  
 
 ![imagen](laValquiria.jpg)
@@ -35,7 +36,11 @@ Wotan condena a Brünnhilde a dormir en una roca rodeada de fuego, donde solo un
 "La Valquiria" es una de las óperas más populares de Wagner y se representa regularmente en teatros de todo el mundo. La obra es un hito en la evolución del drama musical de Wagner, mostrando su habilidad para combinar música y narrativa de manera innovadora.
 
 ## Enlaces de interés 
-Wagner: La Valquiria (Die Walküre) - La Opera  
-LA VALKYRIA (Walküren) de Richard Wagner – la guía y sinopsis de la ópera  
+[Wagner: La Valquiria (Die Walküre) - La Opera](https://laopera.net/wagner/wagner-la-valquiria-die-walkure)  
+[LA VALKYRIA (Walküren) de Richard Wagner – la guía y sinopsis de la ópera](https://opera-inside.com/la-valkyria-walkuren-de-richard-wagner-la-guia-y-sinopsis-de-la-opera/?lang=es)  
+[La Valquiria video](https://www.youtube.com/watch?v=_C-0hH5G8MU&t=64s)
+
+
+
 
  [Inicio](README.md)  [BIOGRAFIA](biografia.md) 
