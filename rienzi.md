@@ -40,8 +40,8 @@ Adriano intenta salvarlos, pero todos mueren cuando el Capitolio es incendiado p
 La ópera fue bien recibida en su estreno y consolidó la reputación de Wagner. Aunque rara vez se representa hoy en día, "Rienzi" es importante por mostrar el desarrollo temprano de Wagner y su capacidad para combinar drama y música en una escala épica 
 
 ## Enlaces de interés 
-[RIENZI ( Richard Wagner) – ## Argumento, Videos - La Opera](https://laopera.net/wagner/rienzi-richard-wagner-argumento-videos)  
-[Rienzi - Wikipedia ](https://en.wikipedia.org/wiki/Rienzi)
-[RIENZI video](https://www.youtube.com/watch?v=b2z_VWhVu20)
+[RIENZI ( Richard Wagner) – Argumento, Videos - La Opera](https://laopera.net/wagner/rienzi-richard-wagner-argumento-videos)    
+[Rienzi - Wikipedia ](https://en.wikipedia.org/wiki/Rienzi)  
+[RIENZI video](https://www.youtube.com/watch?v=b2z_VWhVu20) 
 
  [Inicio](README.md)  [BIOGRAFIA](biografia.md) 
