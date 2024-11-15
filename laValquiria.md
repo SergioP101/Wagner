@@ -37,7 +37,7 @@ Wotan condena a Brünnhilde a dormir en una roca rodeada de fuego, donde solo un
 
 ## Enlaces de interés 
 [Wagner: La Valquiria (Die Walküre) - La Opera](https://laopera.net/wagner/wagner-la-valquiria-die-walkure)  
-[LA VALKYRIA (Walküren) de Richard Wagner – la guía y sinopsis de la ópera](https://opera-inside.com/la-valkyria-walkuren-de-richard-wagner-la-guia-y-sinopsis-de-la-opera/?lang=es)  
+[LA VALKYRIA (Walküren) de Richard Wagner – la guía y sinopsis de la ópera](https://opera-inside.com/la-valkyria-walkuren-de-richard-wagner-la-guia-y-sinopsis-de-la-opera/?lang=es)     
 [La Valquiria video](https://www.youtube.com/watch?v=_C-0hH5G8MU&t=64s)
 
 
