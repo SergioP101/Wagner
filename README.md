@@ -14,7 +14,7 @@ Sus primeras óperas, como ["Las hadas"](lasHadas.md) y ["Rienzi"](rienzi.md), m
 Wagner es conocido por sus óperas monumentales, entre las que destacan ["El anillo del nibelungo"](https://www.youtube.com/watch?v=sudfiLV_KmI), una tetralogía compuesta por ["El oro del Rin"](elOroDelRin.md), ["La valquiria"](laValquiria.md), ["Sigfrido"](sigfrido.md) y ["El ocaso de los dioses"](elOcasoDeLosDioses.md). Otras obras notables incluyen ["Tristán e Isolda"](tristanEIsolda.md), ["Parsifal"](parsifal.md) y ["Los maestros cantores de Núremberg"](losMaestrosContoresdeNurenberg.md).
 
 ### *Impacto en la Música y el Arte*
-Innovaciones Musicales: Wagner revolucionó la ópera con su concepto de la ["obra de arte total"]()(Gesamtkunstwerk), que buscaba la síntesis de todas las artes poéticas, visuales, musicales y escénicas. Introdujo el uso de leitmotivs, temas musicales asociados a personajes o elementos de la trama, y su música se caracteriza por texturas complejas, armonías ricas y orquestación elaborada.
+Innovaciones Musicales: Wagner revolucionó la ópera con su concepto de la ["obra de arte total"](https://www.youtube.com/watch?v=y8WWbY-jCgc&t=163s)(Gesamtkunstwerk), que buscaba la síntesis de todas las artes poéticas, visuales, musicales y escénicas. Introdujo el uso de leitmotivs, temas musicales asociados a personajes o elementos de la trama, y su música se caracteriza por texturas complejas, armonías ricas y orquestación elaborada.
 
 ### *Influencia Duradera*
 Su influencia se extiende más allá de la música, afectando la literatura, la filosofía, las artes visuales y el teatro. Wagner tuvo un impacto significativo en compositores posteriores y en el desarrollo de la música clásica moderna.
