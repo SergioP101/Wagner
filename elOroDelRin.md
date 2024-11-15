@@ -1,6 +1,8 @@
 
 # **El oro del Rin**
 
+![imagen](elOroDelRin.jpg)
+
 El oro del Rin (Das Rheingold) es una ópera en un acto con música y libreto de Richard Wagner, estrenada el 22 de septiembre de 1869 en Múnich. Es la primera de las cuatro óperas que componen el ciclo El anillo del nibelungo (Der Ring des Nibelungen).
 
 ## Argumento

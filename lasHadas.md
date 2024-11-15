@@ -1,5 +1,6 @@
 
 # **Las hadas**  
+![imagen](lasHadas.jpg)
 
 Las hadas (Die Feen) es la primera ópera completa de Richard Wagner, compuesta en 1833 pero estrenada póstumamente en 1888. La ópera está basada en la obra "La donna serpente" de Carlo Gozzi y se desarrolla en tres actos.
 

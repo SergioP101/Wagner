@@ -1,5 +1,7 @@
 # **El Holandés Errante**  
 
+![imagen](elHolandesErrante.jpg)
+
 El holandés errante (Der fliegende Holländer) es una ópera romántica en tres actos con música y libreto de Richard Wagner, estrenada el 2 de enero de 1843 en Dresde La obra está inspirada en la leyenda del holandés errante y en la novela satírica "Las memorias del señor de Schnabelewopski" de Heinrich Heine
 
 ## Argumento

@@ -1,5 +1,6 @@
 # **Parsifal**  
 
+![imagen](parsifal.jpg)
 Parsifal es una ópera en tres actos con música y libreto de Richard Wagner, estrenada el 26 de julio de 1882 en el Festival de Bayreuth. Wagner la describió como un "festival escénico sacro" (Bühnenweihfestspiel), y está basada en el poema épico medieval "Parzival" de Wolfram von Eschenbach.
 
 ## Argumento

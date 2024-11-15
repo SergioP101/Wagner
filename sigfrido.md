@@ -1,5 +1,6 @@
 # **Sigfrido**  
 
+![imagen](sigfrido.jfif)
 Sigfrido (Siegfried) es la tercera ópera del ciclo El anillo del nibelungo (Der Ring des Nibelungen) de Richard Wagner, estrenada el 16 de agosto de 1876 en el Festival de Bayreuth. La obra narra la historia del héroe Sigfrido y su viaje hacia la madurez y el descubrimiento de su destino.
 
 ## Argumento

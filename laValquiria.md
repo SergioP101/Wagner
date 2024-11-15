@@ -1,5 +1,6 @@
 # **La Valquiria**  
 
+![imagen](laValquiria.jpg)
 La Valquiria (Die Walküre) es la segunda ópera del ciclo El anillo del nibelungo (Der Ring des Nibelungen) de Richard Wagner, estrenada el 26 de junio de 1870 en Múnich. La obra se basa en la mitología nórdica y germánica, y es conocida por su poderosa música y compleja narrativa.
 
 ## Argumento 

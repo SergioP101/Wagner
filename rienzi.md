@@ -1,5 +1,5 @@
 # **Rienzi**  
-
+![imagen](rienzi.jpg)
 Rienzi, el último de los tribunos (Rienzi, der letzte der Tribunen) es una ópera en cinco actos de Richard Wagner, compuesta entre 1838 y 1840 Basada en la novela homónima de Edward Bulwer-Lytton, la ópera se estrenó el 20 de octubre de 1842 en la Ópera Real de Dresde
 
 ## Argumento

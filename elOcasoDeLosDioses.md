@@ -1,5 +1,6 @@
 # **El Ocaso de los Dioses**  
 
+![imagen](elOcasoDeLosDioses.jpg)
 El ocaso de los dioses (Götterdämmerung) es la cuarta y última ópera del ciclo El anillo del nibelungo (Der Ring des Nibelungen) de Richard Wagner, estrenada el 17 de agosto de 1876 en el Festival de Bayreuth. La obra culmina la épica saga de poder, traición y redención centrada en el anillo mágico forjado por el enano Alberich.
 
 ## Argumento
