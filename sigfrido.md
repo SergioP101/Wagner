@@ -38,8 +38,8 @@ Brünnhilde y Sigfrido se enamoran y celebran su unión, marcando el comienzo de
 
 ## Enlaces de interés 
 
-[Sigfrido (ópera) - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Sigfrido_%28%C3%B3pera%29)  
-[SIGFRIDO de Richard Wagner – guía y sinopsis de la ópera](https://opera-inside.com/sigfrido-de-richard-wagner-guia-y-sinopsis-de-la-opera/?lang=es) 
+[Sigfrido (ópera) - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Sigfrido_%28%C3%B3pera%29)    
+[SIGFRIDO de Richard Wagner – guía y sinopsis de la ópera](https://opera-inside.com/sigfrido-de-richard-wagner-guia-y-sinopsis-de-la-opera/?lang=es)    
 [Sigfrido (ópera) video](https://www.youtube.com/watch?v=_Q64pPZ9-bw&t=10s)
 
 
