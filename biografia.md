@@ -48,3 +48,7 @@ En el último acto ha pasado mucho tiempo y Parsifal retorna al castillo del Gri
 
 El último drama wagneriano es de hecho un cuadro místico cristiano. Parsifal se convierte al din en mensajero de salvación, Kunfry y Amfortas representan el símbolo de la culpa y la superción.
 Wagner sufrió un primer ataque al corazón en Berlín (1881) y el segundo en Bayreuth, donde ya repuesto estrenó el 26 de julio de 1882 Parsifal, dando 16 funciones en las que el trercer acto de cada una de ellas fue dirigida por el propio compositor. Se trasladó a Venecia para recuperar su salud ya muy deteriorada; pero en 13 de febrero de 1883 moría en dicha ciudad. El día 18 fue enterrado en el jardín de Wahnfried, en Bayreuth, donde después se enterró también a su esposa.
+
+
+
+[Inicio](README.md)  [OBRAS](obras.md)
