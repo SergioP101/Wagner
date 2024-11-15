@@ -35,10 +35,10 @@ La ópera fue revolucionaria en su tiempo y sigue siendo una de las obras más i
 
 ## Enlaces de interés 
 
-[Tristán e Isolda (ópera) - Wikipedia, la enciclopedia libre ](https://es.wikipedia.org/wiki/Trist%C3%A1n_e_Isolda_%28%C3%B3pera%29)
-[Tristan und Isolde (Wagner) - ## Argumento y videos - La Opera  ](https://www.youtube.com/watch?v=5Jg_PcHvY8E&t=675s)
-[Tristán e Isolda (ópera) video](https://www.youtube.com/watch?v=tgYokX-4hG8&t=2430s)
-[Conferencia Ramón Gener Tristan und Isolde](https://www.youtube.com/watch?v=2bbwxVBkE7g)
+[Tristán e Isolda (ópera) - Wikipedia, la enciclopedia libre ](https://es.wikipedia.org/wiki/Trist%C3%A1n_e_Isolda_%28%C3%B3pera%29)    
+[Tristan und Isolde (Wagner) - Argumento y videos - La Opera  ](https://www.youtube.com/watch?v=5Jg_PcHvY8E&t=675s)    
+[Tristán e Isolda (ópera) video](https://www.youtube.com/watch?v=tgYokX-4hG8&t=2430s)    
+[Conferencia Ramón Gener Tristan und Isolde](https://www.youtube.com/watch?v=2bbwxVBkE7g)    
 
 
  [Inicio](README.md)  [BIOGRAFIA](biografia.md) 
