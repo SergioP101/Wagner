@@ -1,3 +1,4 @@
+[Óperas](obras.md)
 # **Parsifal**  
 
 Parsifal es una ópera en tres actos con música y libreto de Richard Wagner, estrenada el 26 de julio de 1882 en el Festival de Bayreuth. Wagner la describió como un "festival escénico sacro" (Bühnenweihfestspiel), y está basada en el poema épico medieval "Parzival" de Wolfram von Eschenbach.
@@ -32,8 +33,9 @@ Kundry, redimida, muere en paz, y Parsifal es aclamado como el salvador.
 "Parsifal" es una de las obras más profundas y espirituales de Wagner, y sigue siendo una pieza central en el repertorio operístico mundial. La ópera ha influido en numerosos compositores y sigue siendo objeto de estudio y admiración por su complejidad musical y filosófica.  
 
 ## Enlaces de interés 
-PARSIFAL de Richard Wagner - la guía y sinopsis de la ópera  
-Parsifal - Wikipedia, la enciclopedia libre  
+[PARSIFAL de Richard Wagner - la guía y sinopsis de la ópera](https://opera-inside.com/parsifal-de-richard-wagner-la-guia-y-sinopsis-de-la-opera/?lang=es) 
+[Parsifal - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Parsifal) 
+[PARSIFAL VIDEO](https://www.youtube.com/watch?v=eqOBEH-JRhs&t=41s)
 
 
  [Inicio](README.md)  [BIOGRAFIA](biografia.md) 

@@ -1,3 +1,4 @@
+[Óperas](obras.md)
 # **Tristán e Isolda**  
 
 Tristán e Isolda (Tristan und Isolde) es una ópera en tres actos con música y libreto de Richard Wagner, basada en la leyenda medieval de Tristán e Isolda. Estrenada el 10 de junio de 1865 en Múnich, esta obra es conocida por su innovador uso del cromatismo, la tonalidad y la suspensión armónica.
@@ -32,7 +33,10 @@ La ópera fue revolucionaria en su tiempo y sigue siendo una de las obras más i
 
 ## Enlaces de interés 
 
-Tristán e Isolda (ópera) - Wikipedia, la enciclopedia libre  
-Tristan und Isolde (Wagner) - ## Argumento y videos - La Opera  
+[Tristán e Isolda (ópera) - Wikipedia, la enciclopedia libre ](https://es.wikipedia.org/wiki/Trist%C3%A1n_e_Isolda_%28%C3%B3pera%29)
+[Tristan und Isolde (Wagner) - ## Argumento y videos - La Opera  ](https://www.youtube.com/watch?v=5Jg_PcHvY8E&t=675s)
+[Tristán e Isolda (ópera) video](https://www.youtube.com/watch?v=tgYokX-4hG8&t=2430s)
+[Conferencia Ramón Gener Tristan und Isolde](https://www.youtube.com/watch?v=2bbwxVBkE7g)
+
 
  [Inicio](README.md)  [BIOGRAFIA](biografia.md) 

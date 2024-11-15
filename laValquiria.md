@@ -1,3 +1,4 @@
+[Óperas](obras.md)
 # **La Valquiria**  
 
 La Valquiria (Die Walküre) es la segunda ópera del ciclo El anillo del nibelungo (Der Ring des Nibelungen) de Richard Wagner, estrenada el 26 de junio de 1870 en Múnich. La obra se basa en la mitología nórdica y germánica, y es conocida por su poderosa música y compleja narrativa.
@@ -34,7 +35,11 @@ Wotan condena a Brünnhilde a dormir en una roca rodeada de fuego, donde solo un
 "La Valquiria" es una de las óperas más populares de Wagner y se representa regularmente en teatros de todo el mundo. La obra es un hito en la evolución del drama musical de Wagner, mostrando su habilidad para combinar música y narrativa de manera innovadora.
 
 ## Enlaces de interés 
-Wagner: La Valquiria (Die Walküre) - La Opera  
-LA VALKYRIA (Walküren) de Richard Wagner – la guía y sinopsis de la ópera  
+[Wagner: La Valquiria (Die Walküre) - La Opera](https://laopera.net/wagner/wagner-la-valquiria-die-walkure)  
+[LA VALKYRIA (Walküren) de Richard Wagner – la guía y sinopsis de la ópera](https://opera-inside.com/la-valkyria-walkuren-de-richard-wagner-la-guia-y-sinopsis-de-la-opera/?lang=es)  
+[La Valquiria video](https://www.youtube.com/watch?v=_C-0hH5G8MU&t=64s)
+
+
+
 
  [Inicio](README.md)  [BIOGRAFIA](biografia.md) 

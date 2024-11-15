@@ -1,4 +1,4 @@
-
+[Óperas](obras.md)
 # **La prohibición de Amar**
 
 La prohibición de amar (Das Liebesverbot) es una ópera cómica en dos actos, compuesta por Richard Wagner en 1834 Basada en la obra "Medida por medida" de William Shakespeare, la ópera se estrenó en Magdeburgo el 29 de marzo de 1836 
@@ -35,7 +35,8 @@ La ópera fue un fracaso en su estreno debido a problemas con el elenco y nunca 
 
 ## Enlaces de interés 
 
-La prohibición de amar - Wikipedia, la enciclopedia libre  
-La prohibición de amar | Una fábula moral | My Opera Player  
+[La prohibición de amar - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/La_prohibici%C3%B3n_de_amar)  
+[La prohibición de amar | Una fábula moral | My Opera Player ](https://www.myoperaplayer.com/videoteca/extras/la-prohibicion-de-amar-una-fabula-moral)
+[La prohibición de amar video](https://www.youtube.com/watch?v=Xbx-WPpUAKU) 
 
  [Inicio](README.md)  [BIOGRAFIA](biografia.md) 

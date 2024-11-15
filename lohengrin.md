@@ -1,3 +1,4 @@
+[Óperas](obras.md)
 # **Lohengrin** 
 
 Lohengrin es una ópera romántica en tres actos con música y libreto de Richard Wagner, estrenada el 28 de agosto de 1850 en Weimar, bajo la dirección de Franz Liszt. La historia se basa en leyendas medievales alemanas, especialmente en el "Parzival" de Wolfram von Eschenbach y su secuela "Lohengrin".
@@ -38,7 +39,11 @@ Lohengrin se despide y Elsa muere de pena.
 
 ## Enlaces de interés 
 
-Lohengrin - Wikipedia, la enciclopedia libre  
-LOHENGRIN de Richard Wagner - Guía y sinopsis de la ópera  
+[Lohengrin - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Lohengrin)  
+[LOHENGRIN de Richard Wagner - Guía y sinopsis de la ópera](https://opera-inside.com/lohengrin-de-richard-wagner-guia-y-sinopsis-de-la-opera/?lang=es)  
+[LOHENGRIN video](https://www.youtube.com/watch?v=mcfSf2vovtw)
+
+
+
 
  [Inicio](README.md)  [BIOGRAFIA](biografia.md) 

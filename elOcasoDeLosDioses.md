@@ -1,3 +1,4 @@
+[Óperas](obras.md)
 # **El Ocaso de los Dioses**  
 
 El ocaso de los dioses (Götterdämmerung) es la cuarta y última ópera del ciclo El anillo del nibelungo (Der Ring des Nibelungen) de Richard Wagner, estrenada el 17 de agosto de 1876 en el Festival de Bayreuth. La obra culmina la épica saga de poder, traición y redención centrada en el anillo mágico forjado por el enano Alberich.
@@ -37,7 +38,10 @@ El Valhalla es consumido por las llamas, marcando el fin de los dioses.
 La ópera es una de las más ambiciosas de Wagner y se representa regularmente en teatros de todo el mundo. "El ocaso de los dioses" es fundamental para entender la culminación del ciclo del Anillo y la visión de Wagner sobre el destino y la redención.  
 
 ## Enlaces de interés 
-El ocaso de los dioses - Wikipedia, la enciclopedia libre  
-El ocaso de los dioses (Götterdämmerung) Wagner - La Opera  
+[El ocaso de los dioses - Wikipedia, la enciclopedia libre ](https://es.wikipedia.org/wiki/El_ocaso_de_los_dioses) 
+[El ocaso de los dioses (Götterdämmerung) Wagner - La Opera  ](https://laopera.net/wagner/gotterdammerung-el-ocaso-de-los-dioses-wagner-argumento-y-videos)
+[El ocaso de los dioses video](https://www.youtube.com/watch?v=OnPWTHrWO2o)
+
+
 
  [Inicio](README.md)  [BIOGRAFIA](biografia.md) 

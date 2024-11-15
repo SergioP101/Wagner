@@ -1,4 +1,4 @@
-
+[Óperas](obras.md)
 # **Tannhäusser** 
 
 Tannhäuser (Tannhäuser und der Sängerkrieg auf Wartburg) es una ópera romántica en tres actos con música y libreto de Richard Wagner, estrenada el 19 de octubre de 1845 en Dresde. La obra está basada en dos leyendas alemanas: la del caballero Tannhäuser y el concurso de canto en el castillo de Wartburg.
@@ -37,7 +37,10 @@ Aunque el estreno no fue un éxito rotundo, "Tannhäuser" se ha convertido en un
 
 ## Enlaces de interés 
 
-Tannhäuser (ópera) - Wikipedia, la enciclopedia libre  
-TANNHÄUSER de Richard Wagner - la guía y sinopsis de la ópera  
+[Tannhäuser (ópera) - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Tannh%C3%A4user_%28%C3%B3pera%29)  
+[TANNHÄUSER de Richard Wagner - la guía y sinopsis de la ópera ](https://opera-inside.com/tannhauser-de-richard-wagner-la-guia-y-sinopsis-de-la-opera/?lang=es) 
+[Tannhäuser video](https://www.youtube.com/watch?v=aRwX_fXjmLw)
+
+
 
  [Inicio](README.md)  [BIOGRAFIA](biografia.md) 
