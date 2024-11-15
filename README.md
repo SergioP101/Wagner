@@ -1,5 +1,4 @@
-
- [RESUMEN](README.md)  [BIOGRAFIA](biografia.md)   [OBRAS](obras.md)
+[BIOGRAFIA](biografia.md)   [OBRAS](obras.md)
 
 ![imagen](wagner.jpg) 
 
